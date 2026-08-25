@@ -2,7 +2,7 @@
 
 An advanced, responsive digital counter web application built with modern JavaScript, Bootstrap 5, and custom CSS styling.
 
-![Digital Counter Preview](https://galdrial.github.io/digital-counter/src/assets/img/og-image.png)
+![Digital Counter Preview](src/assets/img/og-image.png)
 ## ✨ Features
 
 - **Interactive Digital Display** - 6-digit LED-style counter with red glow effect
@@ -16,7 +16,7 @@ An advanced, responsive digital counter web application built with modern JavaSc
 
 ## 🚀 Demo
 
-[Live Demo](https://galdrial.github.io/digital-counter)
+[Live Demo](https://simonecamerano.github.io/digital-counter)
 
 ## 🛠️ Technologies Used
 
@@ -83,7 +83,7 @@ python -m http.server 8000
 1. Fork this repository
 2. Go to repository Settings → Pages
 3. Select source branch (main/master)
-4. Your app will be available at `https://galdrial.github.io/digital-counter`
+4. Your app will be available at `https://simonecamerano.github.io/digital-counter`
 
 ## 📋 Browser Compatibility
 
@@ -152,7 +152,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 **Simone**
-- GitHub: [@galdrial](https://github.com/galdrial)
+- GitHub: [@simonecamerano](https://github.com/simonecamerano)
 - Email: camerano.simo@gmail.com
 
 ## 🙏 Acknowledgments
@@ -173,6 +173,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ⭐ If you found this project helpful, please give it a star!
 
-🐛 Found a bug? [Report it here](https://github.com/galdrial/digital-counter/issues)
+🐛 Found a bug? [Report it here](https://github.com/simonecamerano/digital-counter/issues)
 
-💡 Have a feature request? [Let us know!](https://github.com/galdrial/digital-counter/issues)
+💡 Have a feature request? [Let us know!](https://github.com/simonecamerano/digital-counter/issues)
